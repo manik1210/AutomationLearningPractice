@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c55d188a-3a5c-4a6c-a9ff-7670631c4d8b" name="Changes" comment="ArrayList and Static Variable updated">
-      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/MapFunctionality.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/SingleTonClass.java" afterDir="false" />
+    <list default="true" id="c55d188a-3a5c-4a6c-a9ff-7670631c4d8b" name="Changes" comment="SingleTon CLass added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/ThreadSafeDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resoruces/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoruces/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "last_opened_file_path": "C:/Users/manik/eclipse-workspace/BankLoginFunctionality"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SingleTonClass">
+  <component name="RunManager" selected="Application.ThreadSafeDemo">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="AutomationLearning" />
@@ -89,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadSafeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resoruces.ThreadSafeDemo" />
+      <module name="AutomationLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resoruces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="exceutionClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="resoruces.exceutionClass" />
       <module name="AutomationLearning" />
@@ -104,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadSafeDemo" />
         <item itemvalue="Application.SingleTonClass" />
         <item itemvalue="Application.MapFunctionality" />
         <item itemvalue="Application.exceutionClass" />
@@ -155,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690277479013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SingleTon CLass added">
+      <created>1690289482663</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690289482663</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +183,7 @@
     <MESSAGE value="Started" />
     <MESSAGE value="ArrayList and Static Variable updaTED" />
     <MESSAGE value="ArrayList and Static Variable updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayList and Static Variable updated" />
+    <MESSAGE value="SingleTon CLass added" />
+    <option name="LAST_COMMIT_MESSAGE" value="SingleTon CLass added" />
   </component>
 </project>
