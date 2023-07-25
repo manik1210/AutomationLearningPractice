@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c55d188a-3a5c-4a6c-a9ff-7670631c4d8b" name="Changes" comment="Started">
-      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/exceutionClass.java" afterDir="false" />
+    <list default="true" id="c55d188a-3a5c-4a6c-a9ff-7670631c4d8b" name="Changes" comment="ArrayList and Static Variable updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/resoruces/DifferenceBetweenArrayListandLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoruces/DifferenceBetweenArrayListandLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resoruces/exceutionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoruces/exceutionClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,12 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690207254189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ArrayList and Static Variable updated">
+      <created>1690271697184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690271697184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="Started" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started" />
+    <MESSAGE value="ArrayList and Static Variable updaTED" />
+    <MESSAGE value="ArrayList and Static Variable updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList and Static Variable updated" />
   </component>
 </project>
