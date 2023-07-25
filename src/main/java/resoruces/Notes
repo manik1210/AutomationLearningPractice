@@ -1,0 +1,9 @@
+Feature       	    ArrayList	                    LinkedList
+Data structure	    Array	                        Linked list
+Memory organization	Contiguous	                    Non-contiguous
+Access time	        Fast	                        Slow
+Insertion/deletion  Slow	                        Fast
+Suitable for	    Frequently accessed collections	Frequently modified collections
+
+
+

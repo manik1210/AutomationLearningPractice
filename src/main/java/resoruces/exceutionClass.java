@@ -28,6 +28,10 @@ public class exceutionClass {
 
         //LinkedList
         List<Integer> ll= new LinkedList<>();
+        for (int i=0;i<n;i++){
+            ll.add(sc.nextInt());
+
+        }
 
 
 
