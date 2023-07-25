@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c55d188a-3a5c-4a6c-a9ff-7670631c4d8b" name="Changes" comment="ArrayList and Static Variable updated">
-      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/MapFunctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resoruces/SingleTonClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/resoruces/exceutionClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoruces/exceutionClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resoruces/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resoruces/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +49,39 @@
     "last_opened_file_path": "C:/Users/manik/eclipse-workspace/BankLoginFunctionality"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exceutionClass">
+  <component name="RunManager" selected="Application.SingleTonClass">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="AutomationLearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapFunctionality" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resoruces.MapFunctionality" />
+      <module name="AutomationLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resoruces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleTonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resoruces.SingleTonClass" />
+      <module name="AutomationLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resoruces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleTonClass" />
+        <item itemvalue="Application.MapFunctionality" />
         <item itemvalue="Application.exceutionClass" />
         <item itemvalue="Application.App" />
       </list>
@@ -119,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690276139474</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ArrayList and Static Variable updated">
+      <created>1690277479013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690277479013</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
